@@ -1,0 +1,10 @@
+// Light theme variables
+$primary-color: orange;
+$secondary-color: #f1f1f1;
+$text-color: blue;
+
+.sg {
+  --primary-color: #{$primary-color};
+  --secondary-color: #{$secondary-color};
+  --text-color: #{$text-color};
+}
